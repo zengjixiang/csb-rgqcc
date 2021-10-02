@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://zengjixiang.github.io/csb-rgqcc/static/css/main.40c6c39d.chunk.css",
+    "main.js": "https://zengjixiang.github.io/csb-rgqcc/static/js/main.4eb7302c.chunk.js",
+    "main.js.map": "https://zengjixiang.github.io/csb-rgqcc/static/js/main.4eb7302c.chunk.js.map",
+    "runtime-main.js": "https://zengjixiang.github.io/csb-rgqcc/static/js/runtime-main.d1feb289.js",
+    "runtime-main.js.map": "https://zengjixiang.github.io/csb-rgqcc/static/js/runtime-main.d1feb289.js.map",
+    "static/css/2.437c4f0a.chunk.css": "https://zengjixiang.github.io/csb-rgqcc/static/css/2.437c4f0a.chunk.css",
+    "static/js/2.72a16098.chunk.js": "https://zengjixiang.github.io/csb-rgqcc/static/js/2.72a16098.chunk.js",
+    "static/js/2.72a16098.chunk.js.map": "https://zengjixiang.github.io/csb-rgqcc/static/js/2.72a16098.chunk.js.map",
+    "index.html": "https://zengjixiang.github.io/csb-rgqcc/index.html",
+    "static/css/2.437c4f0a.chunk.css.map": "https://zengjixiang.github.io/csb-rgqcc/static/css/2.437c4f0a.chunk.css.map",
+    "static/css/main.40c6c39d.chunk.css.map": "https://zengjixiang.github.io/csb-rgqcc/static/css/main.40c6c39d.chunk.css.map",
+    "static/js/2.72a16098.chunk.js.LICENSE.txt": "https://zengjixiang.github.io/csb-rgqcc/static/js/2.72a16098.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1feb289.js",
+    "static/css/2.437c4f0a.chunk.css",
+    "static/js/2.72a16098.chunk.js",
+    "static/css/main.40c6c39d.chunk.css",
+    "static/js/main.4eb7302c.chunk.js"
+  ]
+}
